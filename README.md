@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
 <!--
 **usagi143/usagi143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
