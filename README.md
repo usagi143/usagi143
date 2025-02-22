@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
+<p style="color:purple;">whoami</p>
 
 <div class="tecnologias">
   <img src="https://github.com/usagi143/usagi143/blob/main/src/icons8-assembly-96.png?raw=true" height="50"/>
