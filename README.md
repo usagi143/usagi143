@@ -1,4 +1,4 @@
-<p style="color:purple;">whoami</p>
+<h2>whoami👋</h2>
 
 <div class="tecnologias">
   <img src="https://github.com/usagi143/usagi143/blob/main/src/icons8-assembly-96.png?raw=true" height="50"/>
