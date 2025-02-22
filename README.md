@@ -14,7 +14,7 @@
     <img src="https://github.com/usagi143/usagi143/blob/main/src/js.svg?raw=true" height="50"/>
     <img src="https://github.com/usagi143/usagi143/blob/main/src/php.svg?raw=true" height="50"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical" alt="Top Languages" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical" alt="Top Languages" align="right"/>
 </div>
 
 
