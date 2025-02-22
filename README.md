@@ -1,4 +1,4 @@
-## whoami👋 just a newbie in cybersecurity 
+## whoami🦋 just a newbie in cybersecurity 
 
 <!-- <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> -->
 
