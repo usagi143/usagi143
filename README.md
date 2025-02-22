@@ -16,8 +16,8 @@
 <hr>
 
 <div class="stats" >
-  <img src="https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical" alt="GitHub Stats" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical" alt="Top Languages" height="220"/>
 </div>
 
 
