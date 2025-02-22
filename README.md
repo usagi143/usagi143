@@ -1,6 +1,6 @@
 ## Hi there 👋
 <style>
-  *{
+  .tecnologias{
   background-color:blue;
   }
 </style>
