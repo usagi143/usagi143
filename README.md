@@ -3,7 +3,7 @@
 <!-- <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> -->
 
 
-<table border="NONE">
+<table border="-10">
   <tr>
     <td>
       <img src="https://github.com/usagi143/usagi143/blob/main/src/icons8-assembly-96.png?raw=true" height="50"/>
