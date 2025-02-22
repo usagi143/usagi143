@@ -15,8 +15,9 @@
 
 <hr>
 
-<div class="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+| GitHub Stats | Top Languages |
+|-------------|--------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical) |
+
+
   <!--  e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula). -->
