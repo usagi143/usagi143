@@ -1,6 +1,21 @@
+<style>
+  .stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Espacio entre imágenes */
+  }
+
+  .stats img {
+    max-width: 48%; /* Ajusta el tamaño para que no se desborde */
+  }
+</style>
+
 <div class="presentacion">
-  <h2>whoami👋 just a newbie in cyber analyst <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> </h2>
+  <h2>whoami👋 just a newbie in cyber analyst </h2>
 </div>
+
+<!-- <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> -->
 
 <div class="lenguajes">
   <img src="https://github.com/usagi143/usagi143/blob/main/src/icons8-assembly-96.png?raw=true" height="50"/>
