@@ -1,6 +1,4 @@
-<div class="presentacion">
-  <h2>whoami👋 just a newbie in cyber analyst </h2>
-</div>
+### whoami👋 just a newbie in cyber analyst 
 
 <!-- <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> -->
 
