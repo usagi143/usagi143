@@ -12,3 +12,5 @@
 <hr>
 
 <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/>
+
+![usagi143's GitHub stats](https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical)
