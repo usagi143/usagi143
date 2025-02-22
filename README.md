@@ -1,16 +1,3 @@
-<style>
-  .stats {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px; /* Espacio entre imágenes */
-  }
-
-  .stats img {
-    max-width: 48%; /* Ajusta el tamaño para que no se desborde */
-  }
-</style>
-
 <div class="presentacion">
   <h2>whoami👋 just a newbie in cyber analyst </h2>
 </div>
@@ -28,7 +15,7 @@
 
 <hr>
 
-<div class="stats">
+<div class="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi143&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
