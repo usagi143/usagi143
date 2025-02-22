@@ -1,4 +1,9 @@
 ## Hi there 👋
+<style>
+  *{
+  background-color:blue;
+  }
+</style>
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
 
