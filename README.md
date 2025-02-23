@@ -1,7 +1,6 @@
 ## whoami🦋 just a newbie in cybersecurity 
 
-<!-- <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> -->
-## 🌸 Linux enjoyer
+<!-- <img src="https://github.com/usagi143/usagi143/blob/main/src/cinnamoroll.png?raw=true" height="50"/> 🌸-->
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=usagi143&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
@@ -9,6 +8,7 @@
 </div>
 
 <br>
+
 
 <div class="lenguajes">
   <div>
@@ -21,6 +21,6 @@
   </div>
 </div>
 
- 🌸
+
 
   <!--  e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula). -->
