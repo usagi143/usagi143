@@ -12,7 +12,7 @@
 ### 🌸 Languages
 
 <div >
-    <img src="https://github.com/usagi143/usagi143/blob/main/src/icons8-assembly-96.png?raw=true" height="70"/>
+    <!--<img src="https://github.com/usagi143/usagi143/blob/main/src/icons8-assembly-96.png?raw=true" height="70"/>-->
     <img src="https://github.com/usagi143/usagi143/blob/main/src/bash-scripting.svg?raw=true" height="70"/>
     <img src="https://github.com/usagi143/usagi143/blob/main/src/c-original.svg?raw=true" height="70"/>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='70'/> 
